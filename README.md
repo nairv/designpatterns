@@ -1,1 +1,7 @@
 # designpatterns
+
+## Singleton
+
+## Factory
+
+## AbstractFactory
